@@ -15,6 +15,7 @@ project:
         - file: notebooks/index.md
         - file: notebooks/0001 - Two Sum.ipynb
         - file: notebooks/0002 - Add Two Numbers.ipynb
+        - file: notebooks/0003 - Longest Substring Without Repeating Characters.ipynb
 
 site:
   template: book-theme
