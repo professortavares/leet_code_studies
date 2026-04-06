@@ -1,0 +1,23 @@
+version: 1
+
+project:
+  title: Leet Code Studies
+  description: Soluções didáticas para problemas de algoritmos em notebooks Jupyter.
+  keywords:
+    - algoritmos
+    - jupyter-notebook
+    - jupyter-book
+    - myst
+  toc:
+    - file: index.md
+    - title: Problemas resolvidos
+      children:
+        - file: notebooks/index.md
+        - file: notebooks/0001 - Two Sum.ipynb
+
+site:
+  template: book-theme
+  options:
+    hide_title_block: false
+    hide_outline: false
+    hide_toc: false
