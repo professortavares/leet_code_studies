@@ -10,6 +10,7 @@ Esta seção reúne os notebooks com soluções comentadas para os problemas est
 ## Conteúdo atual
 
 - [0001 - Two Sum](./0001%20-%20Two%20Sum.ipynb)
+- [0002 - Add Two Numbers](./0002%20-%20Add%20Two%20Numbers.ipynb)
 
 ## Crescimento futuro
 
