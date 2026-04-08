@@ -2,3 +2,4 @@ _build/
 .myst/
 .jupyter_cache/
 **/.ipynb_checkpoints/
+prompt.txt

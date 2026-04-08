@@ -13,6 +13,7 @@ Esta seção reúne os notebooks com soluções comentadas para os problemas est
 - [0002 - Add Two Numbers](./0002%20-%20Add%20Two%20Numbers.ipynb)
 - [0003 - Longest Substring Without Repeating Characters](./0003%20-%20Longest%20Substring%20Without%20Repeating%20Characters.ipynb)
 - [0004 - Median of Two Sorted Arrays](./0004%20-%20Median%20of%20Two%20Sorted%20Arrays.ipynb)
+- [0005 - Longest Palindromic Substring](./0005%20-%20Longest%20Palindromic%20Substring.ipynb)
 
 ## Crescimento futuro
 
