@@ -14,10 +14,6 @@ project:
       children:
         - file: notebooks/index.md
         - file: notebooks/0001 - Two Sum.ipynb
-        - file: notebooks/0002 - Add Two Numbers.ipynb
-        - file: notebooks/0003 - Longest Substring Without Repeating Characters.ipynb
-        - file: notebooks/0004 - Median of Two Sorted Arrays.ipynb
-        - file: notebooks/0005 - Longest Palindromic Substring.ipynb
 
 site:
   template: book-theme
